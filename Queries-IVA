@@ -1,0 +1,2 @@
+// Archivo de ejemplo... Queries de IVA!
+SELECT * FROM DECLARACIONES WHERE PERIODO = "2014" 
