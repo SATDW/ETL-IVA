@@ -1,0 +1,4 @@
+// Ejemplo de archivo para Minfin
+SELECT * FROM DECLARACIONES WHERE
+JOIN
+GROUP
